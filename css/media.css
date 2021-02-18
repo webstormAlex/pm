@@ -1,0 +1,14 @@
+@media screen and (min-width:769px){
+  .hamburger{
+    display: none;
+  }
+  h1{
+    font-size: 40px;
+    line-height: 43px;
+  }
+  .header__info{
+    font-size: 18px;
+    line-height: 21px;
+    margin: 0 0 12px 0;
+  }
+}
